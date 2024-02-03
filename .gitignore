@@ -1,0 +1,11 @@
+/Infrastructure/bin/
+/Infrastructure/obj/
+/Application/bin/
+/Application/obj/
+/Presentation/bin/
+/Presentation/obj/
+/domain/bin/
+/domain/obj/
+/tests/bin/
+/tests/obj/
+AppPackages/
